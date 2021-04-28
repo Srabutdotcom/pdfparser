@@ -1,0 +1,1 @@
+export {loadPdf} from './lib/loadpdf.js';
