@@ -1,0 +1,26 @@
+{
+  "name": "@binarmaya/loadpdf",
+  "version": "1.1.1",
+  "description": "\"# loadpdf\"",
+  "main": "index.js",
+  "module": "main.bundle.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srabutdotcom/loadpdf.git"
+  },
+  "author": "binarmaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srabutdotcom/loadpdf/issues"
+  },
+  "homepage": "https://github.com/Srabutdotcom/loadpdf#readme",
+  "dependencies": {
+    "esm": "3.2.25"
+  }
+}

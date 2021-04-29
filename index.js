@@ -1,1 +1,3 @@
-export {loadPdf} from './lib/loadpdf.js';
+require = require("esm")(module/*, options*/)
+module.exports = require("./main.bundle.min.js")
+
