@@ -1,4 +1,5 @@
 lib/
 main.js
 main.bundle.js
-node_modules
+main.bundle.min.js
+node_modules/

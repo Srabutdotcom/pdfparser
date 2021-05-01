@@ -1,0 +1,15 @@
+1. merge all dependencies into one file named main.bundle.js
+   deno bundle main.js main.bundle.js
+2. compress the bundle file  
+    - minify all variable name
+    terser --compress --mangle --output main.compress.js main.bundle.js 
+    - no minify all variable name
+    terser --compress --output main.compress.js main.bundle.js 
+3. publish into npm
+    - update version in package.json
+    - add any .gitignore
+    - npm publish --access=public
+4. push to git (if you want to update the module into git)
+    - git add .
+    - git commit -m "comment"
+    - git push origin
