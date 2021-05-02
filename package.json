@@ -1,6 +1,6 @@
 {
   "name": "@binarmaya/loadpdf",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "\"# loadpdf\"",
   "main": "main.compress.js",
   "scripts": {
