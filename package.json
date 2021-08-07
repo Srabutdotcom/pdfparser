@@ -1,8 +1,8 @@
 {
   "name": "@binarmaya/loadpdf",
-  "version": "1.1.7",
-  "description": "\"# loadpdf\"",
-  "main": "main.js",
+  "version": "1.1.9",
+  "description": "PDF text parser to beautiful csv format",
+  "main": "main.compress.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
